@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<gameList>
+  <game>
+    <path>./Chessing.sh</path>
+    <name>Chessing</name>
+    <desc>Chess puzzle trainer with 38,367 puzzles from the Lichess puzzle database, 10 difficulty levels, 19 themes and a rating that is saved between sessions.</desc>
+    <releasedate>20261112T000000</releasedate>
+    <developer>Kaiman</developer>
+    <publisher>Open Source</publisher>
+    <genre>Puzzle, Strategy</genre>
+    <image>./chessing/cover.png</image>
+  </game>
+</gameList>

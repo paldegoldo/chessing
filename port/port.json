@@ -1,0 +1,35 @@
+{
+  "version": 4,
+  "name": "chessing.zip",
+  "items": [
+    "Chessing.sh",
+    "chessing"
+  ],
+  "items_opt": [],
+  "attr": {
+    "title": "Chessing",
+    "porter": [
+      "Kaiman"
+    ],
+    "desc": "Chess puzzle trainer for handhelds with 38,367 puzzles from the Lichess puzzle database, sorted into 10 difficulty levels and 19 themes. It keeps a rating that goes up when you solve a puzzle on the first try and down when you miss, remembers which puzzles you have already seen, and includes four board looks and sound effects.",
+    "desc_md": null,
+    "inst": "Ready to run out of the box, no additional files needed.",
+    "inst_md": null,
+    "genres": [
+      "puzzle",
+      "strategy"
+    ],
+    "image": null,
+    "rtr": true,
+    "exp": false,
+    "runtime": [],
+    "store": [],
+    "availability": "full",
+    "reqs": [],
+    "arch": [
+      "aarch64",
+      "x86_64"
+    ],
+    "min_glibc": ""
+  }
+}

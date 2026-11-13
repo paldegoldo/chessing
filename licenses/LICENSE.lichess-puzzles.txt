@@ -1,0 +1,6 @@
+The puzzles in this game come from the Lichess puzzle database:
+https://database.lichess.org/#puzzles
+
+Lichess releases the puzzle database under the Creative Commons CC0 1.0
+Universal public domain dedication:
+https://creativecommons.org/publicdomain/zero/1.0/
